@@ -85,6 +85,7 @@ qrtr-smd.ko
 ktop.ko
 audio_prm_dlkm.ko
 qce50.ko
+mmrm_test_module.ko
 qcom-i2c-pmic.ko
 qcom_sync_file.ko
 swr_dlkm.ko
