@@ -52,6 +52,7 @@ qti-fixed-regulator.ko
 reboot-mode.ko
 msm_geni_serial.ko
 msm_rtb.ko
+ns.ko
 nvmem_qcom-spmi-sdam.ko
 phy-generic.ko
 phy-qcom-ufs.ko
@@ -324,7 +325,6 @@ stm_p_ost.ko
 stm_console.ko
 stm_ftrace.ko
 snd-usb-audio-qmi.ko
-sla.ko
 qrtr-smd.ko
 qrtr-mhi.ko
 qrtr-gunyah.ko

@@ -33,13 +33,13 @@ wcd_core_dlkm.ko
 gh_irq_lend.ko
 gplaf_vendor.ko
 bt_fm_slim.ko
-phy-qcom-ufs-qmp-v4-parrot.ko
 msm-cvp.ko
 msm_lmh_dcvs.ko
 qti_userspace_cdev.ko
 machine_dlkm.ko
 ipam.ko
 wcd938x_slave_dlkm.ko
+nfc_i2c.ko
 stm_console.ko
 lvstest.ko
 qti_cpufreq_cdev.ko
@@ -204,7 +204,6 @@ qfprom-sys.ko
 sysmon_subsystem_stats.ko
 smp2p.ko
 audio_pkt_dlkm.ko
-sla.ko
 qsee_ipc_irq_bridge.ko
 coresight-csr.ko
 qcom_ipc_lite.ko
@@ -227,7 +226,6 @@ qti_devfreq_cdev.ko
 spmi-glink-debug.ko
 guestvm_loader.ko
 i3c-master-msm-geni.ko
-phy-qcom-ufs-qmp-v4-anarok.ko
 mhi.ko
 policy_engine.ko
 rmnet_perf_tether.ko
